@@ -1,0 +1,14 @@
+﻿  main.cpp
+main.cpp(248): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+main.cpp(263): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+main.cpp(401): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+main.cpp(875): warning C4477: "fscanf": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+  main.cpp(875): note: рекомендуется использовать "%lf" в строке форматирования
+main.cpp(875): warning C4477: "fscanf": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "2" имеет тип "double *"
+  main.cpp(875): note: рекомендуется использовать "%lf" в строке форматирования
+main.cpp(875): warning C4477: "fscanf": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "3" имеет тип "double *"
+  main.cpp(875): note: рекомендуется использовать "%lf" в строке форматирования
+  Создание кода
+  All 34 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Water.vcxproj -> C:\Users\Mi\Desktop\Realistic_Water\Release\Water.exe

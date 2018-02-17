@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Simple_shaders.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Water.vcxproj -> C:\Users\Mi\Desktop\Realistic_Water\Debug\Water.exe
