@@ -1,4 +1,5 @@
 # Realistic_Water
+Modeling of the realistic water surface
 Using Textures and Stencil Buffer
 
 <p align="center">
